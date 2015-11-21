@@ -1,2 +1,2 @@
-# Pulsometer
-Open source project of portabele home made pulsometer.
+# PulseMeter
+Open source project of portable homemade pulse meter.
